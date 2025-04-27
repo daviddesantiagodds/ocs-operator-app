@@ -33,4 +33,4 @@ function App() {
         <div className="bg-white p-6 rounded shadow-md w-full max-w-md text-center">
           <p className="text-green-600 font-semibold mb-2">File Uploaded:</p>
           <p className="text-gray-700">{fileName}</p>
-          <p className="text-gray-500 mt-4">(*Tabs, Dashboard, Scheduling will load here next*)</p
+          <p className="text-gray-500 mt-4">(*Tabs, Dashboard, Scheduling will load here next*)</p>
